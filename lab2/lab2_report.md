@@ -43,9 +43,9 @@ Date of finished: 28.04.2025
 
 #### Скриншоты метрик:
 
-- ![Max concurrent requests и Container startup latency](./screenshot/image1.png)
-- ![Container CPU utilization, memory utilization, sent bytes и received bytes](./screenshot/image2.png)
-- ![Request count, request latencies, container instance count и billable container instance time](./screenshot/image3.png)
+- ![Максимальное количество одновременных запросов и время запуска контейнера](/screenshot/image1.png)
+- ![Использование CPU, памяти, отправленные и полученные байты](/screenshot/image2.png)
+- ![Количество запросов, время ответа, количество экземпляров контейнера и оплачиваемое время работы контейнера](/screenshot/image3.png)
 
 ### 3. Изменение порта и тестирование
 
