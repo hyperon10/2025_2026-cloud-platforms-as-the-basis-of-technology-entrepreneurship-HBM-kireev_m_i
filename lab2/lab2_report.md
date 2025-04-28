@@ -42,6 +42,7 @@ Date of finished: 28.04.2025
   - **Container startup latency** — около **50-100 мс**.
 
 #### Скриншоты метрик:
+![Подключение через SSH](screenshots/image1.png)
 
 - ![Максимальное количество одновременных запросов и время запуска контейнера](screenshots/image1.png)
 - ![Использование CPU, памяти, отправленные и полученные байты](screenshots/image2.png)
