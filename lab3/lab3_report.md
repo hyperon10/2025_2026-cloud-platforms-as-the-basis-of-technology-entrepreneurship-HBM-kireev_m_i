@@ -52,7 +52,7 @@ Date of finished: 29.04.2025
 
   - ![Переход к файлу через имя](screenshots/image4.png)
   
-  - ![Получение Public URL](screenshots/image5.png)
+  - ![Получение Public URL](screenshots/image4.png)
 
 - Проверил доступность файлов через публичные ссылки — всё работало корректно.
 
