@@ -50,7 +50,7 @@ Date of finished: 29.04.2025
 - Нажал на имя файла в списке.
 - Перешел по ссылке **Public URL** для каждого файла.
 
-  - ![Переход к файлу через имя](screenshots/image4.png)
+  - ![Переход к файлу через имя](screenshots/image.png)
   
   - ![Получение Public URL](screenshots/image5.png)
 
