@@ -23,8 +23,8 @@ Date of finished: 06.05.2025
 ## 1. Начальный этап (PoC)
 
 **Архитектура:**
-- Frontend: Cloud Storage (статичные HTML/JS-файлы)
-- Backend: Cloud Run (контейнер с REST API)
+- Frontend: Cloud Storage 
+- Backend: Cloud Run 
 - AI-модель: Внешний API (например, Hugging Face Inference API)
 - Хранение данных: Cloud Storage
 - База данных: не используется
@@ -51,7 +51,7 @@ Date of finished: 06.05.2025
 - Frontend: Cloud Storage + Load Balancer
 - Backend: App Engine Standard (Python)
 - AI-модель: Hugging Face API
-- База данных: Cloud Datastore (NoSQL)
+- База данных: Cloud Datastore 
 - Мониторинг: Cloud Logging
 
 **Описание:**  
@@ -75,7 +75,7 @@ App Engine обеспечивает масштабируемость без ко
 **Архитектура:**
 - Frontend: Cloud CDN + Cloud Storage
 - Backend: Cloud Run Jobs + Workflows
-- AI-модель: Vertex AI Prediction (CPU)
+- AI-модель: Vertex AI Prediction 
 - База данных: Cloud Bigtable
 - Очереди: Pub/Sub
 - Безопасность и аналитика: Cloud Logging, Cloud Armor
