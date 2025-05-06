@@ -10,7 +10,7 @@ Group: HBM
 
 Author: Kireev Mikhail Igorevich
 
-Lab: Lab3
+Lab: Lab4
 
 Date of create: 03.04.2025
 
