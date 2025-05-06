@@ -12,9 +12,9 @@ Author: Kireev Mikhail Igorevich
 
 Lab: Lab3
 
-Date of create: 29.04.2025
+Date of create: 03.04.2025
 
-Date of finished: 29.04.2025
+Date of finished: 06.05.2025
 
 
 # Лабораторная работа №4  
